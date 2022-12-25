@@ -1,21 +1,21 @@
 <div align="center">
-<img src="https://i.postimg.cc/bdXyDk4C/IMG-20221217-181812.png" align="center" style="width: 100%" />
+<img src="https://i.postimg.cc/NF2NCHLw/20221225-211543.jpg" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Hex, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
+### <div align="center">I'm Mahim, a full-time full-stack freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning Hyperledger, Kubernetes, Editing  
   
 
-- ***❓ Ask me about anything related to MERN stack and related technologies***  
+- ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact : FaQ Off  
+- ⚡ Fun fact: Fuck off 🥱  
   
 
 <br/>  
